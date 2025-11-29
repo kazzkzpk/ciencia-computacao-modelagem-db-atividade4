@@ -27,7 +27,7 @@ ___
 #### Utilizando o Docker
 - Execute o comando `docker-compose up`
 - Acesse o banco de dados a partir do PMA em `localhost:8080`
-- Fazer login utilizando as credenciais do .env `cienca-computacao:cienca-computacao`
+- Fazer login utilizando as credenciais do .env `ciencia-computacao:ciencia-computacao`
 - Execute os scripts na UI sequencialmente como descritos na tabela de estrutura.
 
 ps: não é necessário criar o banco de dados, pois o docker já faz a partir do environment pré-configurado em .env.
