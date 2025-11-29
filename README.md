@@ -12,7 +12,7 @@ O projeto está dividido em 4 scripts sequenciais para facilitar a execução e 
 | create_tables.sql  | Cria suas 7 tabelas, definindo tipagem, PK's e FK's.                                                                       |
 | insert_data.sql    | Insere dados fictícios em todas as tabelas para permitir testes de funcionalidades.                                        |
 | queries_select.sql | Contém 5 consultas utilizando JOIN, GROUP BY, ORDER BY e funções de agregação (COUNT, SUM) para extrair informações úteis. |
-| drop_tables.sql    | Atualizações de cadastros (UPDATE) e remoção segura de registros (DELETE).                                                 |
+| update_delete.sql  | Atualizações de cadastros (UPDATE) e remoção segura de registros (DELETE).                                                 |
 
 Banco de dados utilizado: MariaDB (fork do MySQL).
 ___
